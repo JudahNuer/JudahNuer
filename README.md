@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JudahNuer
-- 👀 I’m interested in froentend Development
+- 👀 I’m interested in frontend Development
 - 🌱 I’m currently learning HTML, CSS & JavaScript
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me judah.nuer@gmail.com
